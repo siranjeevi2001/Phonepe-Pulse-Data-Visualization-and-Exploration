@@ -44,6 +44,20 @@ Dataset Link: [Data Link](link_to_data)
 
 Inspired From: PhonePe Pulse
 
+## Software Requirements
+
+- Python 3.x
+- MySQL
+- Streamlit
+- Plotly
+
+## Libraries
+
+- pandas
+- mysql-connector-python
+- streamlit
+- plotly
+
 ## Usage
 
 1. Clone the repository.
