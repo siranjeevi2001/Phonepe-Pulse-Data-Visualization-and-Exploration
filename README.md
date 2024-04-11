@@ -21,6 +21,8 @@ The Phonepe Pulse GitHub repository contains a large amount of data that needs t
 
 The result will be a live geo visualization dashboard with at least 10 dropdown options for users to select different facts and figures. The dashboard will provide valuable insights and information about the data in the Phonepe Pulse GitHub repository.
 
+vedio drive link "https://drive.google.com/file/d/1sneMX8YJdq-fDwDmiP49612WlYMWZdQS/view?usp=sharing"
+
 ## Learning Outcomes
 
 1. Data extraction and processing using Python and Pandas.
