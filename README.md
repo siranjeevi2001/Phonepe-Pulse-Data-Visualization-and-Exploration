@@ -38,6 +38,19 @@ The result will be a live geo visualization dashboard with at least 10 dropdown 
 - Follow Python coding standards (PEP 8).
 - Create a demo/presentation video for LinkedIn.
 
+## phonepe dataset download from git
+
+First install GIt  and the git clone
+
+```import git
+
+repository_url='https://github.com/phonepe/pulse.git'
+
+destination_data= r"data"
+git.Repo.clone_from(repository_url,destination_data)
+
+```
+
 ## Dataset
 
 Dataset Link: [Data Link](link_to_data)
